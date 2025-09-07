@@ -26,7 +26,8 @@ The dataset includes:
 - Germany had the **highest churn rate** among all regions  
 
 ## 🖼️ Dashboard
-![Bank Churn Dashboard](images/Esther%20Project.PNG)
+![Bank Churn Dashboard]
+(Esther Project.PNG)
 
 ## ✅ Conclusion
 The analysis highlights key factors affecting churn such as geography, credit score, and customer tenure.  
