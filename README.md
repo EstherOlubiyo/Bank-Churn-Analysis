@@ -27,7 +27,7 @@ The dataset includes:
 
 ## 🖼️ Dashboard
 ![Bank Churn Dashboard]
-(https://github.com/EstherOlubiyo/Bank-Churn-Analysis/blob/main/Screenshot_20250907-191612_1.jpg)
+(https://github.com/EstherOlubiyo/Bank-Churn-Analysis/blob/main/Esther%20Project.PNG)
 
 ## ✅ Conclusion
 The analysis highlights key factors affecting churn such as geography, credit score, and customer tenure.  
